@@ -1,4 +1,5 @@
-# Customize-W10
+# Customize-W10 (Walls here
+<h4> Wallpapers here: https://github.com/carlosrl19/Wallpapers</h4>
 ~> Some apps that I use in W10 to be like i3wm from Linux. (Also it works with bindsym/keybinds as i3wm for example: 
 - `Win+Shift+Q: Kill focus window`,
 - `Alt+D: Open App Menu & Searcher`, 
