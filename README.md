@@ -11,11 +11,6 @@
 
 <H2>📌My dots</H2>
 
-- `YT Music`
-
-![image](https://user-images.githubusercontent.com/85375012/184013687-68c9ba1e-ff7e-4676-9642-9c93123b2327.png)
-- `Explorer` 
-
 ![image](https://user-images.githubusercontent.com/85375012/184013905-3a70f2ef-5125-46f3-a4d0-224feaac3366.png)
 - `Gaps :D` 
 
