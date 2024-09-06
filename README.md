@@ -2,6 +2,11 @@
 <H4>Programs here: https://github.com/carlosrl19/Customize-W10/releases/tag/Executables </h4>
 <h5> Wallpapers here: https://github.com/carlosrl19/Wallpapers</h5>
 
+# Plus: Fix clock error with dual-boot
+```
+reg add "HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TimeZoneInformation" /v RealTimeIsUniversal /d 1 /t REG_DWORD /f
+```
+
 ~> Some apps that I use in W10 to be like i3wm from Linux. (Also it works with bindsym/keybinds as i3wm for example: 
 
 - `Win+Shift+Q: Kill focus window`,
